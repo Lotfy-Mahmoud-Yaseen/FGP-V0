@@ -215,7 +215,6 @@ input[type="submit"]:hover {
         width: 20px;
         height: 20px;
         z-index: 1; */
-        display: none;
     }
     .container {
         top: 42%;
